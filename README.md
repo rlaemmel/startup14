@@ -1,4 +1,3 @@
-startup14
-=========
+The soure code of the app is based on https://docs.djangoproject.com
+The instructions given in the tutorial are also based on the same tutorial.
 
-Resources supporting a course at WHU in year 2014
