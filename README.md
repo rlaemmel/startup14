@@ -1,6 +1,6 @@
 # Summary
 
-This project hosts resources supporting a course at WHU in year 2014.
+This project hosts resources supporting a course at WHU held in 2014.
 
 # Acknowledgement
 
